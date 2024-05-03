@@ -1,0 +1,12 @@
+D:\studiolabi\Client\bin\Debug\Client.exe.config
+D:\studiolabi\Client\bin\Debug\Client.exe
+D:\studiolabi\Client\bin\Debug\Client.pdb
+D:\studiolabi\Client\bin\Debug\SimpleTCP.dll
+D:\studiolabi\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\studiolabi\Client\obj\Debug\Client.Form1.resources
+D:\studiolabi\Client\obj\Debug\Client.Properties.Resources.resources
+D:\studiolabi\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\studiolabi\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\studiolabi\Client\obj\Debug\Client.csproj.Up2Date
+D:\studiolabi\Client\obj\Debug\Client.exe
+D:\studiolabi\Client\obj\Debug\Client.pdb

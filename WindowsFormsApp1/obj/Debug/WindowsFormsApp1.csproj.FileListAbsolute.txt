@@ -1,0 +1,12 @@
+D:\studiolabi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\studiolabi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\studiolabi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\studiolabi\WindowsFormsApp1\bin\Debug\SimpleTCP.dll
+D:\studiolabi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\studiolabi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\studiolabi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\studiolabi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\studiolabi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\studiolabi\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\studiolabi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\studiolabi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
